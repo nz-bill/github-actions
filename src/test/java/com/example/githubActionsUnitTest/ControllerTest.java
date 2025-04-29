@@ -24,7 +24,7 @@ class ControllerTest {
         Controller controller = new Controller();
 
         //act
-        double result = controller.division(5,1);
+        double result = controller.division(5,2);
 
         //assert
         assertEquals(2.5,result);
