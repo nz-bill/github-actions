@@ -9,7 +9,7 @@ public class Controller {
     public double division(double a, double b){
 
         //lägger till massa cool kod
-        a++;
+
 
         return a/b;
     }
